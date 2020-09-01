@@ -1,5 +1,7 @@
 rgmcet
 srec
+svr
+avr
 gprec
 ksmr
 bits
