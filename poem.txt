@@ -2,5 +2,6 @@ rgmcet
 srec
 gprec
 ksmr
+bits
 aits
 colleges around us
